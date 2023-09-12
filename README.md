@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Análise de Dados da Polícia Rodoviária Federal</title>
-</head>
 <body>
   <h1>Análise de Dados da Polícia Rodoviária Federal</h1>
   <p>Este projeto consiste em uma análise de dados dos registros da Polícia Rodoviária Federal, visando obter insights úteis para a melhoria da segurança nas rodovias brasileiras. Utilizamos técnicas de análise de dados e visualização para identificar pontos críticos nas rodovias, sugerir medidas preventivas com base nas causas mais comuns de incidentes e avaliar a necessidade de melhorias em rodovias ou trechos específicos.</p>
